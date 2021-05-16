@@ -46,6 +46,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ## Java
 
+* [REST 案例大全](https://github.com/waylau/RestDemo)
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
@@ -68,10 +69,39 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Spring 5 案例大全](https://github.com/waylau/spring-5-book)
 * [Think Java, 2nd Edition](https://books.trinket.io/thinkjava2)
 * [Think Data Structures](http://greenteapress.com/thinkdast/html/index.html)
+* [现代Java案例大全](https://github.com/waylau/modern-java-demos)
+* [Effective Java 3rd Edition中文版](https://sjsdfg.github.io/effective-java-3rd-chinese)
+* [Netty 案例大全](https://github.com/waylau/netty-4-user-guide-demos/)
+* [Java数据结构及算法实战](https://github.com/waylau/java-data-structures-and-algorithms-in-action)
+* [Java安可认证阶段考试——可信编码实现](https://github.com/waylau/java-trusted-coding-exam)
+* [Java安可认证阶段考试——开发者测试](https://github.com/waylau/java-trusted-testing-exam)
+* [Java安可认证阶段考试——可信代码重构](https://github.com/waylau/java-trusted-code-refactoring-exam)
 
 ## Golang
 
 * Build Web Application With Golang [:us:](https://github.com/astaxie/build-web-application-with-golang), [:cn:](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh)
+* [Go语言圣经(中文版)](https://github.com/golang-china/gopl-zh) ([镜像](https://github.com/gopl-zh/gopl-zh.github.com))
+* [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
+
+
+## Python
+
+* Python on Windows documentation  [:us:](https://docs.microsoft.com/en-us/windows/python/), [:cn:](https://docs.microsoft.com/zh-cn/windows/python/)
+
+
+## Web
+
+* [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
+* [Scalable Vector Graphics (SVG) 2](http://www.w3.org/TR/2015/WD-SVG2-20150409/)
+* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* http2 explained [:us:](http://daniel.haxx.se/http2/), [:cn:](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
+* [TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)
+* [NGINX 教程](https://github.com/waylau/nginx-tutorial)
+* JSON-RPC 2.0 规范 [:us:](http://www.jsonrpc.org/specification), [:cn:](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)
+* [跟老卫学Angular](https://github.com/waylau/angular-tutorial)
+* [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com/)
+* [跟老卫学Vue.js开发](https://github.com/waylau/vuejs-enterprise-application-development)
 
 ## Javascript
 
@@ -81,11 +111,15 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * Jekyll 文档 [:us:](http://jekyllrb.com/docs/home/), [:cn:](http://jekyllcn.com/docs/home/)
 * [NW.js 入门指南](https://github.com/waylau/nwjs-demos) 
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese)
 
-## NodeJS
+## Node.js
 
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+* [跟老卫学Ionic](https://github.com/waylau/ionic-framework-tutorial)
+* [Node.js 案例大全](https://github.com/waylau/nodejs-book-samples)
+* Developing with Node.js on Windows [:us:](https://docs.microsoft.com/en-us/windows/nodejs/), [:cn:](https://docs.microsoft.com/zh-cn/windows/nodejs/)
 
 ## CSS
 
@@ -126,20 +160,10 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * openSUSE Leap 42.1 非官方指南 [:us:](http://opensuse-guide.org/), [:cn:](https://lug.ustc.edu.cn/sites/opensuse-guide/)
 * [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)[:us:]
 
-## Web
-
-* [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
-* [Scalable Vector Graphics (SVG) 2](http://www.w3.org/TR/2015/WD-SVG2-20150409/)
-* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
-* http2 explained [:us:](http://daniel.haxx.se/http2/), [:cn:](https://www.gitbook.com/book/ye11ow/http2-explained/details)
-* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-* [TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)
-* [NGINX 教程](https://github.com/waylau/nginx-tutorial)
-* JSON-RPC 2.0 规范 [:us:](http://www.jsonrpc.org/specification), [:cn:](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)
-
 ## Mobile Development
 
 * [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide) 
+* [跟老卫学HarmonyOS开发](https://github.com/waylau/harmonyos-tutorial)
 
 ## Swift
 
